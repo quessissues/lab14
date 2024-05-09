@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.title('Terzatel apps')
+st.title('Danilc apps')
 
 st.text("Hello, this is my app.")
 
